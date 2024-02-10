@@ -23,7 +23,7 @@ li{
   transition: 0.5s;
 }
 li:hover{
-  background: #996fae;
+  background: #999;
   transform: translateX(-50px);
 }
 li::before{
@@ -44,7 +44,7 @@ li::before{
   transition: 0.5s;
 }
 li:hover::before{
-  background: #7b5190;
+  background: #fff;
 }
 li::after{
   content:"";
@@ -59,7 +59,7 @@ li::after{
   transition: 0.5s;
 }
 li:hover::after{
-  background: #86589d;
+  background: #999;
 
 }
 li a{
